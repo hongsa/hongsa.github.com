@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Django Settings
+category : programming
 ---
 
 ### settings를 common, prod, dev로 나누어서 개발

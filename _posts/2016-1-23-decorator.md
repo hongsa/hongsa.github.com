@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Django token decorator
+category : programming
 ---
 
 ###decorator로 토큰 인증 확인하기

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ionic에 facebook 로그인 달기
+category : programming
 ---
 
 

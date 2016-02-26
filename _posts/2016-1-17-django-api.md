@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Django api 서버 구축 삽질기
+category : programming
 ---
 
 ###결국 Function Based View 로 개발

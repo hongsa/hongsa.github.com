@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SlackList 앱 구조
+category : programming
 ---
 
 ### Backend - Django // Frontend - Ionic
