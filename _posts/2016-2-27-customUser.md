@@ -5,7 +5,7 @@ category : programming
 ---
 
 ###장고에서 기본적으로 제공하는 Auth.User를 customize해서 사용
-- settings에서 선언해줘야 함
+- settings에서 선언해줘야 함(이 부분을 잊지말자!)
 
 ```python
 AUTH_USER_MODEL = 'movement.Client' //(app.modelname)

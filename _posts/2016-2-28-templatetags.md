@@ -7,7 +7,7 @@ category : programming
 ###디렉토리 구성
 - app - templatetags - custom_tags.py
 - 요일마다 색깔 바꾸는 것을 태그로 이용해봄 
-- middleware에 로컬 추가
+- middleware에 로컬 추가해야 한글로 변경됨
 
 ```python
 'django.middleware.locale.LocaleMiddleware',
