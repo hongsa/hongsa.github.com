@@ -65,7 +65,7 @@ redcarpet:
       - autolink
       - hard_wrap
 
-highlighter: pygments
+highlighter: rouge
 permalink: /:title/
 
 paginate: 5
