@@ -19,6 +19,7 @@ category : portfolio
 - SNS 마케터의 공유를 통한 트래픽 유입 광고 시스템 구축
 
 #####기술 Stack
+- [Git repo](https://github.com/hongsa/goodvideo)
 - Back-end : Python flask framework
 - Front-end : Html, Css, JQuery, Bootstrap, Javascript, Ajax
 - Server : Amazon Web Service ubuntu (Apache2)
