@@ -49,7 +49,8 @@ var AJAX_URL = "/주소";
 ```
 
 
-### refresh 버튼도 factory를 이용함
+### refresh 부분도 동일한 구조로 이용할 수 있음
+
 ```javascript
 $scope.doRefresh = function() {
     num = 0;

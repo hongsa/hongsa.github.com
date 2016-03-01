@@ -8,7 +8,7 @@ permalink: /about/
 - Python(Django, Flask), Java
 
 ### Frontend
-- HTML & CSS, Bootstrap, Javascript, Angular.js, JQuery, Ajax, Ionic
+- Javascript, Angular.js, JQuery, Ionic, HTML & CSS, Bootstrap
 
 ### Etc
 - Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2
