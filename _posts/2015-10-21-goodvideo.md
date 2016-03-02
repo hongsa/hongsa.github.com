@@ -20,8 +20,9 @@ category : portfolio
 
 #####기술 Stack
 - [Git repo](https://github.com/hongsa/goodvideo)
-- Back-end : Python flask framework
-- Front-end : Html, Css, JQuery, Bootstrap, Javascript, Ajax
+- Back-end : Python Flask Framework
+- Front-end : Html, Css, JQuery, Bootstrap, Javascript
+- Database : Mysql
 - Server : Amazon Web Service ubuntu (Apache2)
 
 #####성과
