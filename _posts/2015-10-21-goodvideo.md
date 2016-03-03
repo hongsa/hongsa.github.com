@@ -18,6 +18,13 @@ category : portfolio
 - 재미있는 동영상을 카테고리별로 제공하는 웹 서비스
 - SNS 마케터의 공유를 통한 트래픽 유입 광고 시스템 구축
 
+#####개발 내용
+- 부트스트랩 그리드 시스템을 이용해 반응형 웹으로 개발
+- 동영상은 youtube iframe 소스를 분석하여 관리자가 url만 입력하면 삽입할 수 있게 개발
+- 페이스북, 트위터 공유의 소셜 공유 기능 추가
+- 각 SNS 마케터의 공유를 통해 들어온 트래픽을 url의 고유번호로 식별해서 클릭 수 확인
+- 마케터용 클릭 통계 및 수익금 현황 광고 시스템 기능 개발
+
 #####기술 Stack
 - [Git repo](https://github.com/hongsa/goodvideo)
 - Back-end : Python Flask Framework

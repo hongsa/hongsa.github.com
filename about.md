@@ -16,7 +16,7 @@ permalink: /about/
 - Javascript, Angular.js, JQuery, Ionic, HTML & CSS, Bootstrap
 
 ### Etc
-- Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2
+- Linux, DB, Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2, Google Analytics
 
 ### Experience
 - (주)브로컬리(현 Vendys) 인턴 (2012.12 ~ 2013.05)
