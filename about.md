@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Introduce
 - 기획, 영업을 거쳐 개발자로 거듭난 생존력이 뛰어난 잡초같은 개발자입니다.
-- Python을 주력으로 사용하며 새로운 기술과 서비스를 만드는 것을 즐깁니다.
+- python과 javascript을 주력으로 사용하며 새로운 기술과 서비스를 만드는 것을 즐깁니다.
 - 다양한 직무 경험의 높은 이해를 바탕으로 하는 협업을 사랑합니다.
 
 ### Backend
@@ -16,7 +16,7 @@ permalink: /about/
 - Javascript, Angular.js, JQuery, Ionic, HTML & CSS, Bootstrap
 
 ### Etc
-- Linux, DB, Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2, Google Analytics
+- Linux, MySQL, MariaDB, Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2, Nginx, Google Analytics
 
 ### Experience
 - (주)브로컬리(현 Vendys) 인턴 (2012.12 ~ 2013.05)
