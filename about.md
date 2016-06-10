@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Full-Stack Web Developer
+title: Software Engineer
 permalink: /about/
 ---
 
