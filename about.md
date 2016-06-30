@@ -10,7 +10,7 @@ permalink: /about/
 - 다양한 직무 경험의 높은 이해를 바탕으로 하는 협업을 사랑합니다.
 
 ### Backend
-- Python(Django, Flask), Java
+- Python(Django, Flask), Node.js
 
 ### Frontend
 - Javascript, Angular.js, JQuery, Ionic, HTML & CSS, Bootstrap
@@ -23,6 +23,7 @@ permalink: /about/
 - Ivyleaf Co-Founder 창업 (2013.05 ~ 2014.01)
 - 멋쟁이 사자처럼 2기 (2014.07 ~ 2014.09)
 - Team42 Co-Founder (2014.05 ~ 2015.12)
+- Classting.Inc Software Engineer (2016.03 ~)
 
 ### Services
 - [SSUME(썸)](http://hongsa.github.io/ssume/) 기획 및 영업 (2013.09 ~ 2014.01)
