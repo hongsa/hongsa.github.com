@@ -13,7 +13,7 @@ permalink: /about/
 - Python(Django, Flask), Node.js
 
 ### Frontend
-- Javascript, Angular.js, JQuery, Ionic, HTML & CSS, Bootstrap
+- Javascript, Angular.js, React.js, React-native, JQuery, Ionic, HTML & CSS, Bootstrap
 
 ### Etc
 - Linux, MySQL, MariaDB, Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2, Nginx, Google Analytics
@@ -23,7 +23,8 @@ permalink: /about/
 - Ivyleaf Co-Founder 창업 (2013.05 ~ 2014.01)
 - 멋쟁이 사자처럼 2기 (2014.07 ~ 2014.09)
 - Team42 Co-Founder (2014.05 ~ 2015.12)
-- Classting.Inc Software Engineer (2016.03 ~)
+- Classting.Inc Software Engineer (2016.03 ~ 2017.04)
+- 현재 창업중 (2017.05 ~)
 
 ### Services
 - [SSUME(썸)](http://hongsa.github.io/ssume/) 기획 및 영업 (2013.09 ~ 2014.01)
@@ -32,6 +33,7 @@ permalink: /about/
 - [외대강평](http://hongsa.github.io/hufsev/) 기획 및 개발 (2015.07 ~ )
 - [굿비디오](http://hongsa.github.io/goodvideo/) 외주 개발 ( 2015.10 ~ 2015.12)
 - [Slacker](http://hongsa.github.io/slack/) 기획 및 개발 (2016.02 ~ )
+- [minsim](http://hongsa.github.io/minsim) 기획 및 개발 (2016.12 ~)
 
 
 ### Contact
