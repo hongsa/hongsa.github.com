@@ -26,7 +26,7 @@ footer-links:
   linkedin: hongsa
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -53,10 +53,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-markdown: redcarpet
+# markdown: redcarpet
 
 redcarpet:
-    extensions: 
+    extensions:
       - no_intra_emphasis
       - fenced_code_blocks
       - tables
@@ -91,4 +91,3 @@ exclude:
     - LICENSE
     - README.md
     - CNAME
-
