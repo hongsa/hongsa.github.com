@@ -19,7 +19,7 @@ permalink: /about/
 - Linux, MySQL, MariaDB, Amazon Web Service, Google App Engine, Ubuntu, CentOS, Apache2, Nginx, Google Analytics
 
 ### History
-- 현재 창업중 (2017.05 ~)
+- GSC (2017.05 ~)
 - Classting.Inc Software Engineer (2016.03 ~ 2017.04)
 - Team42 Co-Founder (2014.05 ~ 2015.12)
 - 멋쟁이 사자처럼 2기 (2014.07 ~ 2014.09)
@@ -27,8 +27,10 @@ permalink: /about/
 - (주)브로컬리(현 Vendys) 인턴 (2012.12 ~ 2013.05)
 
 ### Services
-- [minsim](http://hongsa.github.io/minsim) 기획 및 개발 (2016.12 ~)
-- [Slacker](http://hongsa.github.io/slack/) 기획 및 개발 (2016.02 ~ )
+- [재밌어이웹툰](http://hongsa.github.io/webtoonreview) 기획 및 개발 (2017.07 ~)
+- [팔도](http://hongsa.github.io/paldo) 기획 및 개발 (2017.05 ~ 2017.06)
+- [민심](http://hongsa.github.io/minsim) 기획 및 개발 (2016.12 ~ 2017.01)
+- [Slacker](http://hongsa.github.io/slack/) 기획 및 개발 (2016.02 ~ 2016.03)
 - [굿비디오](http://hongsa.github.io/goodvideo/) 외주 개발 ( 2015.10 ~ 2015.12)
 - [외대강평](http://hongsa.github.io/hufsev/) 기획 및 개발 (2015.07 ~ )
 - [직박구리](http://hongsa.github.io/jikbak/) 기획 및 개발 (2015.02 ~ 2015.12)
