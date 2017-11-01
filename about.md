@@ -30,8 +30,6 @@ permalink: /about/
 - [재밌어이웹툰](http://hongsa.github.io/webtoonreview) 기획 및 개발 (2017.07 ~)
 - [팔도](http://hongsa.github.io/paldo) 기획 및 개발 (2017.05 ~ 2017.06)
 - [민심](http://hongsa.github.io/minsim) 기획 및 개발 (2016.12 ~ 2017.01)
-- [Slacker](http://hongsa.github.io/slack/) 기획 및 개발 (2016.02 ~ 2016.03)
-- [굿비디오](http://hongsa.github.io/goodvideo/) 외주 개발 ( 2015.10 ~ 2015.12)
 - [외대강평](http://hongsa.github.io/hufsev/) 기획 및 개발 (2015.07 ~ )
 - [직박구리](http://hongsa.github.io/jikbak/) 기획 및 개발 (2015.02 ~ 2015.12)
 - [마피아42](http://hongsa.github.io/mafia/) 기획 및 영업 (2014.05 ~ 2015.12)
