@@ -29,8 +29,9 @@ category : portfolio
 
 
 ##### 4. 서비스 링크
-- 안드로이드 : https://goo.gl/cnYgNB
-- 아이폰 : https://goo.gl/tka3S6
+- [안드로이드](https://goo.gl/cnYgNB)
+- [아이폰](https://goo.gl/tka3S6)
+- [프론트엔드 Git Repository](https://github.com/hongsa/review-frontend) / 코드 일부
 
 
 ##### 5. 리뷰를 선택한 이유
@@ -44,7 +45,7 @@ category : portfolio
     - React-Native를 통해 안드로이드와 아이폰 모두 개발
     - Redux, Redux-thunk를 이용해 data state 관리
     - ESLint를 사용하여 코드퀄리티 관리
-    - 코드 일부 공개(https://github.com/hongsa/review-frontend)
+    - [프론트엔드 Git Repository](https://github.com/hongsa/review-frontend) / 코드 일부
   - Back-end
     - Python Flask Restful api로 개발
     - Flask-SQLAlchemy를 기본 orm으로 사용하며, join이 있을 경우 raw query 사용
